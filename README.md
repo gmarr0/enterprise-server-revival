@@ -1,7 +1,3 @@
-# enterprise-server-revival
-End-to-end hardware revival of an IBM x3250 M3. Features BIOS ROM recovery via IMM, hardware RAID bypass engineering, and 
-
-Proxmox/ZFS virtualization deployment.
 # 🛠️ enterprise-server-revival
 ### IBM System x3250 M3 (Type 4252) | SN#KQ1Y4KK
 
@@ -29,11 +25,7 @@ The unit was initially recovered in a heavily weathered state, requiring a full 
 * **Precision Cleaning:** Decontaminated the primary fan bank, DIMM slots, and CPU socket area, re-establishing a safe baseline for electrical testing.
 
 > **Gallery: Teardown & Cleaning**
-> ![Initial State]
-> https://via.placeholder.com/400x250?text=https://github.com/user-attachments/assets/4c7be348-8026-44cf-8b53-d5995085cfbe)
-
-> ![Clean Motherboard]
-> https://github.com/user-attachments/assets/347d5c98-d5d5-405b-bb98-5be59f2ce2c0
+> ![Initial State](https://via.placeholder.com/400x250?text=Insert+IMG_3750.MP4+Screenshot) ![Clean Motherboard](https://via.placeholder.com/400x250?text=Insert+IMG_7750.jpg)
 
 ---
 
@@ -88,6 +80,9 @@ The transition from a decommissioned, non-posting unit to a surgically clean, hi
 
 > **Gallery: Ready for Deployment**
 > ![Final Build Interior](https://via.placeholder.com/400x250?text=Insert+IMG_7762.MOV+Screenshot) ![Front Bezel Online](https://via.placeholder.com/400x250?text=Insert+IMG_7777.JPEG)
+
+---
+*Project maintained by [Your GitHub Username / JPARO Gadgets]*(https://via.placeholder.com/400x250?text=Insert+IMG_7777.JPEG)
 
 ---
 *Project maintained by [Your GitHub Username / JPARO Gadgets]*
