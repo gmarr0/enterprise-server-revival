@@ -30,7 +30,7 @@ The unit was initially recovered in a heavily weathered state, requiring a full 
 
 > **Gallery: Teardown & Cleaning**
 > ![Initial State]
-> https://github.com/user-attachments/assets/4c7be348-8026-44cf-8b53-d5995085cfbe
+> https://via.placeholder.com/400x250?text=https://github.com/user-attachments/assets/4c7be348-8026-44cf-8b53-d5995085cfbe)
 
 > ![Clean Motherboard]
 > https://github.com/user-attachments/assets/347d5c98-d5d5-405b-bb98-5be59f2ce2c0
