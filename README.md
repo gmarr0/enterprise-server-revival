@@ -29,9 +29,10 @@ The unit was initially recovered in a heavily weathered state, requiring a full 
 >
 <img width="703" height="935" alt="dirty server" src="https://github.com/user-attachments/assets/1395071b-f408-4cae-938a-65c350a3d6e4" />
 
-> [Clean Motherboard]
->
-<img width="703" height="935" alt="dirty server" src="https://github.com/user-attachments/assets/5debe152-abb8-42ab-834a-d06202be4be1" />
+> [boot up intitial page]
+
+<img width="703" height="935" alt="dirty server" src="https://github.com/user-attachments/assets/46a14d4a-53f9-41e7-bddd-961de4932caa" />
+
 
 
 
@@ -45,7 +46,15 @@ The server was trapped in a "No-POST" state. Instead of replacing parts blindly,
   > `Critical Error: Firmware BIOS (ROM) corruption detected on system SN#KQ1Y4KK during POST`
 
 > **Gallery: Diagnostics**
-> ![Multimeter Testing](https://via.placeholder.com/400x250?text=Insert+IMG_7686.MOV+Screenshot) ![IMM Interface](https://via.placeholder.com/400x250?text=Insert+IMG_7703.MOV+Screenshot)
+> [Multimeter Testing]
+>
+<img width="703" height="935" alt="Multimeter Testing" src="https://github.com/user-attachments/assets/3bdcc061-597a-4857-b656-610a95602465" />
+
+>
+> [Imm Interface server operating normally]
+>
+<img width="703" height="935" alt="Imm Interface server operating normally" src="https://github.com/user-attachments/assets/a3c06297-147a-48ae-96e6-4f2d78f4cbaf" />
+
 
 ---
 
@@ -56,7 +65,14 @@ The BIOS corruption caused severe interoperability hardware loops, resulting in 
 * **Heartbeat Stabilization:** Successfully cleared the corruption. Diagnostic LEDs transitioned from amber faults to a solid green **STB PWR**, confirming the logic board was retaining settings and ready for POST.
 
 > **Gallery: Firmware Recovery**
-> ![Motherboard Jumpers](https://via.placeholder.com/400x250?text=Insert+IMG_7685.jpg) ![Green Status LEDs](https://via.placeholder.com/400x250?text=Insert+IMG_7688.MOV+Screenshot)
+> [Motherboard Jumpers]
+>
+<img width="703" height="935" alt="Motherboard Jumpers" src="https://github.com/user-attachments/assets/6a424dea-db03-4859-b04f-74b797fbcb29" />
+
+>
+> [Green Status LEDs]
+>
+<img width="703" height="935" alt="Green Status LEDs" src="https://github.com/user-attachments/assets/cdce9a4d-31bb-45eb-a3b9-c62120c58e2e" />
 
 ---
 
@@ -67,7 +83,14 @@ During initial configuration, the legacy LSI RAID controller suffered a critical
 * **Direct-Attached Storage (DAS):** This engineering workaround completely bypassed the failed hardware RAID, allowing the hypervisor to access the raw drives directly—an ideal scenario for modern software-defined storage.
 
 > **Gallery: The Storage Bypass**
-> ![Rerouting Cables](https://via.placeholder.com/400x250?text=Insert+IMG_7679.MOV+Screenshot) ![Micron SSD Array](https://via.placeholder.com/400x250?text=Insert+IMG_7756.jpg)
+> [Rerouting Cables]
+>
+<img width="703" height="935" alt="https://github.com/user-attachments/assets/1790aaff-cd58-4bc9-acf1-7d6e797f0cdc" />
+
+>
+> [Micron SSD Array]
+<img width="703" height="935" alt="https://github.com/user-attachments/assets/8c01cf83-2ce0-48dc-858f-875e6cbb2147" />
+
 
 ---
 
@@ -79,7 +102,15 @@ With the hardware stabilized and the storage path cleared, the system was provis
 * **Automated Reliability:** Configured the environment for high availability, including "Start-on-Boot" parameters and 100% successful automated backup jobs.
 
 > **Gallery: Hypervisor Performance**
-> ![ZFS Speed Test](https://via.placeholder.com/400x250?text=Insert+zfs+speed+test.png) ![Proxmox Backups](https://via.placeholder.com/400x250?text=Insert+successful+backup.png)
+> [ZFS Speed Test]
+>
+> <img width="1920" height="1032" alt="zfs speed test" src="https://github.com/user-attachments/assets/8b35e9ae-b9e7-40f9-b2e1-e1e7d2d863f1" />
+
+>
+> [Proxmox Backups]
+>
+> <img width="1920" height="1032" alt="successful backup" src="https://github.com/user-attachments/assets/8df53493-7b34-4562-9a7c-60e4e091604a" />
+
 
 ---
 
@@ -87,7 +118,14 @@ With the hardware stabilized and the storage path cleared, the system was provis
 The transition from a decommissioned, non-posting unit to a surgically clean, high-performance virtualization host is complete. The system boasts organized cable management, optimized airflow, and 100% verified hardware health.
 
 > **Gallery: Ready for Deployment**
-> ![Final Build Interior](https://via.placeholder.com/400x250?text=Insert+IMG_7762.MOV+Screenshot) ![Front Bezel Online](https://via.placeholder.com/400x250?text=Insert+IMG_7777.JPEG)
+> ![Final Build Interior]
+>
+<img width="703" height="935" alt="Clean Motherboard" src="https://github.com/user-attachments/assets/5debe152-abb8-42ab-834a-d06202be4be1" />
+>
+> ![Front Bezel Online]
+>
+> <img width="703" height="935" alt="https://github.com/user-attachments/assets/3afc78ca-45af-48d8-a67f-a4df840f2282" />
+
 
 ---
 *Project maintained by [Your GitHub Username / JPARO Gadgets]*(https://via.placeholder.com/400x250?text=Insert+IMG_7777.JPEG)
