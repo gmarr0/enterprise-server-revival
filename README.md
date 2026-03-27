@@ -25,6 +25,7 @@ The unit was initially recovered in a heavily weathered state, requiring a full 
 * **Precision Cleaning:** Decontaminated the primary fan bank, DIMM slots, and CPU socket area, re-establishing a safe baseline for electrical testing.
 
 > **Gallery: Teardown & Cleaning**
+
 > [Initial State]
 >
 <img width="703" height="935" alt="dirty server" src="https://github.com/user-attachments/assets/1395071b-f408-4cae-938a-65c350a3d6e4" />
@@ -43,9 +44,12 @@ The server was trapped in a "No-POST" state. Instead of replacing parts blindly,
 
 * **Electrical Benchmarking:** Utilized a digital multimeter to verify the PSU rails. Confirmed a stable **5.16V** delivery to the logic board, ruling out a power supply failure.
 * **IMM Verification:** Accessed the out-of-band Integrated Management Module (IMM) to pull the system event logs. Discovered the root cause:
-  > `Critical Error: Firmware BIOS (ROM) corruption detected on system SN#KQ1Y4KK during POST`
+>
+<img width="703" height="935" alt="dirty server" src="https://github.com/user-attachments/assets/387642d0-dbfe-454f-91db-0785086d6f46" />"
+
 
 > **Gallery: Diagnostics**
+>
 > [Multimeter Testing]
 >
 <img width="703" height="935" alt="Multimeter Testing" src="https://github.com/user-attachments/assets/3bdcc061-597a-4857-b656-610a95602465" />
@@ -65,6 +69,7 @@ The BIOS corruption caused severe interoperability hardware loops, resulting in 
 * **Heartbeat Stabilization:** Successfully cleared the corruption. Diagnostic LEDs transitioned from amber faults to a solid green **STB PWR**, confirming the logic board was retaining settings and ready for POST.
 
 > **Gallery: Firmware Recovery**
+>
 > [Motherboard Jumpers]
 >
 <img width="703" height="935" alt="Motherboard Jumpers" src="https://github.com/user-attachments/assets/6a424dea-db03-4859-b04f-74b797fbcb29" />
@@ -83,13 +88,15 @@ During initial configuration, the legacy LSI RAID controller suffered a critical
 * **Direct-Attached Storage (DAS):** This engineering workaround completely bypassed the failed hardware RAID, allowing the hypervisor to access the raw drives directly—an ideal scenario for modern software-defined storage.
 
 > **Gallery: The Storage Bypass**
+>
 > [Rerouting Cables]
 >
-<img width="703" height="935" alt="https://github.com/user-attachments/assets/1790aaff-cd58-4bc9-acf1-7d6e797f0cdc" />
+<img width="703" height="935" alt="Rerouting Cables" src="https://github.com/user-attachments/assets/1790aaff-cd58-4bc9-acf1-7d6e797f0cdc" />
 
 >
 > [Micron SSD Array]
-<img width="703" height="935" alt="https://github.com/user-attachments/assets/8c01cf83-2ce0-48dc-858f-875e6cbb2147" />
+>
+<img width="703" height="935" alt="Micron SSD Array" src="https://github.com/user-attachments/assets/8c01cf83-2ce0-48dc-858f-875e6cbb2147" />
 
 
 ---
@@ -102,6 +109,7 @@ With the hardware stabilized and the storage path cleared, the system was provis
 * **Automated Reliability:** Configured the environment for high availability, including "Start-on-Boot" parameters and 100% successful automated backup jobs.
 
 > **Gallery: Hypervisor Performance**
+>
 > [ZFS Speed Test]
 >
 > <img width="1920" height="1032" alt="zfs speed test" src="https://github.com/user-attachments/assets/8b35e9ae-b9e7-40f9-b2e1-e1e7d2d863f1" />
@@ -118,17 +126,18 @@ With the hardware stabilized and the storage path cleared, the system was provis
 The transition from a decommissioned, non-posting unit to a surgically clean, high-performance virtualization host is complete. The system boasts organized cable management, optimized airflow, and 100% verified hardware health.
 
 > **Gallery: Ready for Deployment**
-> ![Final Build Interior]
+>
+> [Final Build Interior]
 >
 <img width="703" height="935" alt="Clean Motherboard" src="https://github.com/user-attachments/assets/5debe152-abb8-42ab-834a-d06202be4be1" />
 >
-> ![Front Bezel Online]
+> [Front Bezel Online]
 >
-> <img width="703" height="935" alt="https://github.com/user-attachments/assets/3afc78ca-45af-48d8-a67f-a4df840f2282" />
+<img width="703" height="935" alt="Front Bezel Online" src="https://github.com/user-attachments/assets/3afc78ca-45af-48d8-a67f-a4df840f2282" />
 
 
 ---
-*Project maintained by [Your GitHub Username / JPARO Gadgets]*(https://via.placeholder.com/400x250?text=Insert+IMG_7777.JPEG)
+*Project maintained by [gmarr0 / JPARO Gadgets]*(https://via.placeholder.com/400x250?text=Insert+IMG_7777.JPEG)
 
 ---
 *Project maintained by [Your GitHub Username / JPARO Gadgets]*
