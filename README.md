@@ -30,7 +30,7 @@ The unit was initially recovered in a heavily weathered state, requiring a full 
 >
 <img width="703" height="935" alt="dirty server" src="https://github.com/user-attachments/assets/1395071b-f408-4cae-938a-65c350a3d6e4" />
 
-> [boot up intitial page]
+> [IMM Boot Diagnostics]
 
 <img width="703" height="935" alt="dirty server" src="https://github.com/user-attachments/assets/46a14d4a-53f9-41e7-bddd-961de4932caa" />
 
