@@ -137,7 +137,4 @@ The transition from a decommissioned, non-posting unit to a surgically clean, hi
 
 
 ---
-*Project maintained by [gmarr0 / JPARO Gadgets]*(https://via.placeholder.com/400x250?text=Insert+IMG_7777.JPEG)
-
----
-*Project maintained by [Your GitHub Username / JPARO Gadgets]*
+*Project maintained by [gmarr0 / https://github.com/gmarr0]*
