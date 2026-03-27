@@ -54,12 +54,6 @@ The server was trapped in a "No-POST" state. Instead of replacing parts blindly,
 >
 <img width="703" height="935" alt="Multimeter Testing" src="https://github.com/user-attachments/assets/3bdcc061-597a-4857-b656-610a95602465" />
 
->
-> [Imm Interface server operating normally]
->
-<img width="703" height="935" alt="Imm Interface server operating normally" src="https://github.com/user-attachments/assets/a3c06297-147a-48ae-96e6-4f2d78f4cbaf" />
-
-
 ---
 
 ## 🧠 Phase 3: Firmware Recovery & Logic Stabilization
@@ -78,6 +72,10 @@ The BIOS corruption caused severe interoperability hardware loops, resulting in 
 > [Green Status LEDs]
 >
 <img width="703" height="935" alt="Green Status LEDs" src="https://github.com/user-attachments/assets/cdce9a4d-31bb-45eb-a3b9-c62120c58e2e" />
+
+> [Imm Interface server operating normally]
+>
+<img width="703" height="935" alt="Imm Interface server operating normally" src="https://github.com/user-attachments/assets/a3c06297-147a-48ae-96e6-4f2d78f4cbaf" />
 
 ---
 
