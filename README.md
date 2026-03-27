@@ -130,6 +130,7 @@ The transition from a decommissioned, non-posting unit to a surgically clean, hi
 > [Final Build Interior]
 >
 <img width="703" height="935" alt="Clean Motherboard" src="https://github.com/user-attachments/assets/5debe152-abb8-42ab-834a-d06202be4be1" />
+
 >
 > [Front Bezel Online]
 >
