@@ -25,7 +25,13 @@ The unit was initially recovered in a heavily weathered state, requiring a full 
 * **Precision Cleaning:** Decontaminated the primary fan bank, DIMM slots, and CPU socket area, re-establishing a safe baseline for electrical testing.
 
 > **Gallery: Teardown & Cleaning**
-> ![Initial State](https://via.placeholder.com/400x250?text=Insert+IMG_3750.MP4+Screenshot) ![Clean Motherboard](https://via.placeholder.com/400x250?text=Insert+IMG_7750.jpg)
+> ![Initial State]
+>
+<img width="703" height="935" alt="dirty server" src="https://github.com/user-attachments/assets/1395071b-f408-4cae-938a-65c350a3d6e4" />
+> ![Clean Motherboard]
+>
+![clean server](https://github.com/user-attachments/assets/072db52b-9537-4a48-9524-ac3311285216)
+
 
 ---
 
