@@ -30,7 +30,8 @@ The unit was initially recovered in a heavily weathered state, requiring a full 
 <img width="703" height="935" alt="dirty server" src="https://github.com/user-attachments/assets/1395071b-f408-4cae-938a-65c350a3d6e4" />
 > ![Clean Motherboard]
 >
-![clean server](https://github.com/user-attachments/assets/072db52b-9537-4a48-9524-ac3311285216)
+<img width="703" height="935" alt="dirty server" src="https://github.com/user-attachments/assets/5debe152-abb8-42ab-834a-d06202be4be1" />
+
 
 
 ---
